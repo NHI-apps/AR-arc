@@ -1,3 +1,5 @@
 # Arc Zoellner Art Center
-## [https://at727.github.io/AR-cube/](https://at727.github.io/AR-cube/)
 
+## [Desktop View](https://nhi-apps.github.io/AR-arc/)
+
+![Arc AR Code](qr.png)
